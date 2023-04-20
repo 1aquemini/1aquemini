@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hayden
+Hello, [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Hayden
 ==============================================================================================================================
 
 Engineer. Creative. Golfer.
@@ -9,7 +9,9 @@ I've been learning to code for the past 5 years after switching careers from the
 *   🌍  I'm based in FL
 *   🧠  I'm learning Springboot
 *   🤝  I'm open to collaborating on interesting projects
-*   ⚡  Fun fact: I'm the world's top curator of music### Skills 
+*   ⚡  Fun fact: I'm the world's top curator of music
+
+### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
