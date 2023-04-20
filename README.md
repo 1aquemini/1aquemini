@@ -24,7 +24,7 @@ Interests/Skills:
             
 * 📫 You can reach me at https://linktr.ee/1aquemini
 
-*[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H1KKIG4)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H1KKIG4)
 
 <!---
 1aquemini/common is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
