@@ -17,6 +17,8 @@ Interests/Skills:
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
 
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/QC7U8wp3Td0FOogtgN" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/designer-animator-deekay-QC7U8wp3Td0FOogtgN">via GIPHY</a></p>
+
 *   🌍  I'm based in FL
 *   🧠  I'm learning Springboot
 *   🤝  I'm open to collaborating on interesting projects
